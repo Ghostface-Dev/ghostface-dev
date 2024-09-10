@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center"> Olá, Sou <a href="https://github.com/Ghostface-Dev">Henique 👋</h1>
+  <h2 align="center">
+    Bem vindos ao meu github! <br>
+  </h2>
 
-<!--
-**Ghostface-Dev/ghostface-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align = "center"> Sobre mim </h1>
+  <p align="center">
+    Sou uma pessoa apaixonada pela lógica e pelo aprendizado conínuo, estudante intermediário de Java ❤️, com foco na Web e Bukkits. <br>
+    Estou sempre buscando aprender novas habilidades e evoluir minhas capacidades.
+  </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align = "center">Tecnologías mais usadas</h1>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostface-Dev&theme=tokyonight">
+  </div>
+<hr>
+  <p align="center">Sou fã do ghostface 😂</p>
