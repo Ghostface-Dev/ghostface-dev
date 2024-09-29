@@ -14,4 +14,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostface-Dev&theme=tokyonight">
   </div>
 <hr>
-  <p align="center">Sou fã do ghostface 😂</p>
