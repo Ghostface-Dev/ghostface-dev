@@ -5,7 +5,7 @@
 
 <h1 align = "center"> Sobre mim </h1>
   <p align="center">
-    Sou uma pessoa apaixonada pela lógica e pelo aprendizado conínuo, estudante intermediário de Java ❤️, com foco na Web e Bukkits. <br>
+    Sou uma pessoa apaixonada pela lógica e pelo aprendizado conínuo, estudante intermediário de Java ❤️ com foco na Web. <br>
     Estou sempre buscando aprender novas habilidades e evoluir minhas capacidades.
   </p>
 
